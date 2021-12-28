@@ -1,6 +1,4 @@
-# PlayStation Store
-
-
+# 🎮PlayStation Store🎮
 
 <h3>Final result:</h3>
 <br>
@@ -11,12 +9,12 @@
 
 
 
-Technologies
+🔥Technologies
 This project was developed with the following technologies:
 <br>
 
--html
+Html
 <br>
--css
+Css
 <br>
 JavaScript
